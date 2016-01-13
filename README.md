@@ -1,7 +1,7 @@
 # Awesome Elements
 
-[![GitHub Star](https://img.shields.io/github/stars/StartPolymer/awesome-elements.svg?label=Star)](https://github.com/StartPolymer/awesome-elements)
-[![GitHub Watch](https://img.shields.io/github/watchers/StartPolymer/awesome-elements.svg?label=Watch)](https://github.com/StartPolymer/awesome-elements)
+[![GitHub Stars](https://img.shields.io/github/stars/StartPolymer/awesome-elements.svg?label=GitHub%20Stars)](https://github.com/StartPolymer/awesome-elements)
+[![GitHub Watchers](https://img.shields.io/github/watchers/StartPolymer/awesome-elements.svg?label=GitHub%20Watchers)](https://github.com/StartPolymer/awesome-elements)
 
 > A collection of awesome Polymer / Web Components elements.
 
