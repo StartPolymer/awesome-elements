@@ -11,7 +11,11 @@
   "license": "https://github.com/StartPolymer/license",
   "dependencies": {
     "awesome-button-elements": "StartPolymer/awesome-button-elements",
-    "awesome-chart-elements": "StartPolymer/awesome-chart-elements"
+    "awesome-chart-elements": "StartPolymer/awesome-chart-elements",
+    "awesome-input-elements": "StartPolymer/awesome-input-elements",
+    "awesome-progress-elements": "StartPolymer/awesome-progress-elements",
+    "awesome-table-elements": "StartPolymer/awesome-table-elements",
+    "s-elements": "StartPolymer/s-elements"
   },
   "private": true
 }
