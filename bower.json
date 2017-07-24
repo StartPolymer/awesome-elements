@@ -12,6 +12,7 @@
   "dependencies": {
     "awesome-button-elements": "StartPolymer/awesome-button-elements",
     "awesome-display-elements": "StartPolymer/awesome-display-elements",
+    "awesome-firebase-elements": "StartPolymer/awesome-firebase-elements",
     "awesome-chart-elements": "StartPolymer/awesome-chart-elements",
     "awesome-input-elements": "StartPolymer/awesome-input-elements",
     "awesome-progress-elements": "StartPolymer/awesome-progress-elements",
