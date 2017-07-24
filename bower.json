@@ -15,8 +15,7 @@
     "awesome-chart-elements": "StartPolymer/awesome-chart-elements",
     "awesome-input-elements": "StartPolymer/awesome-input-elements",
     "awesome-progress-elements": "StartPolymer/awesome-progress-elements",
-    "awesome-table-elements": "StartPolymer/awesome-table-elements",
-    "s-elements": "StartPolymer/s-elements"
+    "awesome-table-elements": "StartPolymer/awesome-table-elements"
   },
   "private": true
 }
