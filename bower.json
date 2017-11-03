@@ -10,13 +10,13 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "awesome-button-elements": "StartPolymer/awesome-button-elements",
-    "awesome-display-elements": "StartPolymer/awesome-display-elements",
-    "awesome-firebase-elements": "StartPolymer/awesome-firebase-elements",
-    "awesome-chart-elements": "StartPolymer/awesome-chart-elements",
-    "awesome-input-elements": "StartPolymer/awesome-input-elements",
-    "awesome-progress-elements": "StartPolymer/awesome-progress-elements",
-    "awesome-table-elements": "StartPolymer/awesome-table-elements"
+    "awesome-button-elements": "StartPolymer/awesome-button-elements#^2.0.0",
+    "awesome-display-elements": "StartPolymer/awesome-display-elements#^2.0.0",
+    "awesome-firebase-elements": "StartPolymer/awesome-firebase-elements#^2.0.0",
+    "awesome-chart-elements": "StartPolymer/awesome-chart-elements#^2.0.0",
+    "awesome-input-elements": "StartPolymer/awesome-input-elements#^2.0.0",
+    "awesome-progress-elements": "StartPolymer/awesome-progress-elements#^2.0.0",
+    "awesome-table-elements": "StartPolymer/awesome-table-elements#^2.0.0"
   },
   "private": true
 }
