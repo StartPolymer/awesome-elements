@@ -17,4 +17,4 @@ Awesome up-to-date elements.
 [github-watchers-url]: https://github.com/StartPolymer/awesome-elements
 
 [webcomponents-image]: https://img.shields.io/badge/webcomponents.org-published-blue.svg
-[webcomponents-url]: https://beta.webcomponents.org/collection/StartPolymer/awesome-elements
+[webcomponents-url]: https://webcomponents.org/collection/StartPolymer/awesome-elements
